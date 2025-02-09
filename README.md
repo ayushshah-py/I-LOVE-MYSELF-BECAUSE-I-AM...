@@ -20,6 +20,6 @@
 ## Installation
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/i-love-myself.git
+   git clone[ https://github.com/yourusername/i-love-myself.gi](https://github.com/ayushshah-py/I-LOVE-MYSELF-BECAUSE-I-AM....git)
 
 
